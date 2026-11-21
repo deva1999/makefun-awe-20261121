@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600/deva1999/makefun-awe-20261121/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-awe-20261121-1600)
 [![reward](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600/deva1999/makefun-awe-20261121/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-awe-20261121-1600)
 
-A program that writes one short text to relax the reader: a glacier carrying a boulder toward a sea it has never seen, in quiet declarative lines.
+A program that writes one short text to relax the reader: starlight that left its star before the first city was built, arriving still and unhurried, in quiet declarative lines.
 
 ## Run it
 

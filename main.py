@@ -10,10 +10,10 @@ import os
 from pathlib import Path
 
 TEXT = (
-    "The glacier moves an inch a year, carrying a boulder the size of a house\n"
-    "toward a sea it has never seen.\n"
-    "The ice does not hurry.\n"
-    "It has ten thousand years, and the boulder has all of them."
+    "The light falling on this page left its star before the first city was built.\n"
+    "It crossed the dark unhurried, and it is still arriving.\n"
+    "Nothing in all that distance asked it to be faster.\n"
+    "It arrives the way it left: patient."
 )
 
 
